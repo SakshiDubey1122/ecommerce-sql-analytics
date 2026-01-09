@@ -1,0 +1,15 @@
+order_id,score,review_date,review_comment_title,review_comment_message
+O1001,5,2025-03-06 10:00:00,Great,Fast delivery and nice packaging
+O1002,4,2025-03-05 09:00:00,Good,Product quality good but box was slightly damaged
+O1004,2,2025-03-06 08:10:00,Not happy,Delivery date looks wrong in tracking and item arrived late
+O1006,3,2025-03-16 12:00:00,Okay,Shipping took longer than expected
+O1007,5,2025-03-13 15:00:00,Love it,Everything perfect
+O1008,4,2025-03-14 11:30:00,Nice,Good value
+O1010,5,2025-03-14 08:00:00,Excellent,Fast delivery
+O1012,1,2025-03-22 10:00:00,Bad,Very late delivery and no update
+O1015,2,2025-03-23 12:00:00,Disappointed,Jacket size mismatch
+O1016,5,2025-03-20 18:00:00,Perfect,Quick shipping
+O1018,2,2025-03-27 09:00:00,Slow,Delivery was too late
+O1019,4,2025-03-24 19:00:00,Good,All good
+O1020,3,2025-03-31 12:00:00,Average,Delivery was late but items ok
+O1019,6,2025-03-24 19:05:00,Weird,Score out of range (should be filtered)

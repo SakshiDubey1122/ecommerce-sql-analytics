@@ -1,0 +1,13 @@
+customer_id,customer_city,customer_state,signup_date
+C001,Milwaukee,WI,2025-01-05 09:10:00
+C002,Chicago,IL,2025-01-08 12:30:00
+C003,Madison,WI,2025-01-12 18:05:00
+C004,Detroit,MI,2025-02-01 10:00:00
+C005,Minneapolis,MN,2025-02-14 08:45:00
+C006,St Louis,MO,2025-02-20 14:12:00
+C007,Indianapolis,IN,2025-03-02 16:00:00
+C008,Columbus,OH,2025-03-06 09:40:00
+C009,Nashville,TN,2025-03-10 11:11:00
+C010,Denver,CO,2025-03-25 19:20:00
+C011,Chicago,IL,
+C012,Milwaukee,WI,2025-04-01 07:05:00
