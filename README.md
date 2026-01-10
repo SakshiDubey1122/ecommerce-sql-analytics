@@ -3,7 +3,7 @@
 This project demonstrates an end-to-end SQL analytics workflow on an e-commerce dataset.  
 It covers data cleaning, modeling, and business analysis using PostgreSQL.
 
-## Project Goals
+Project Goals
 - Analyze business growth over time
 - Identify top-performing product categories and SKUs
 - Understand customer behavior and retention
